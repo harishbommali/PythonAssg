@@ -1,0 +1,15 @@
+a=float(input('enter number:'))
+print(float(a))
+print(str(a))
+print(complex(a))
+print(bool(a))
+''''
+c=complex(a)
+type(c)
+d=bin(a)
+type(d)
+e=oct(a)
+type(e)
+f=hex(a)
+type(f)
+''''
