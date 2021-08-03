@@ -25,7 +25,7 @@ else:
 print('Student name:',n)
 print('Total marks of the student:',total)
 print('Status of the student(P/F):',status)
-print('Average of the student:',avg' Grade of the student:',gra)
+print('Average of the student:',avg, 'Grade of the student:',gra)
 print('conclusion')
 
 
