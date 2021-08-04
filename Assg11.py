@@ -21,8 +21,13 @@ elif avg>=60 and avg<70:
 elif avg>=50 and avg<60:
     gra='C'
 else:
-    grade='F'                       
-print(f'total mark: {total}, average :{avg},grade:{gra},status: {status}')
+    grade='F'
+print('Student name:',n)
+print('Total marks of the student:',total)
+print('Status of the student(P/F):',status)
+print('Average of the student:',avg,'Grade of the student:',gra)
+print('conclusion')
+#print(f'total mark: {total}, average :{avg},grade:{gra},status: {status}')
 print('conclusion')
 
 
